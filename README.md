@@ -1,55 +1,95 @@
-# Data Scientist
+## Career Objectives and Interests
+With a strong foundation in microbiology, I am committed to unraveling the molecular mechanisms of emerging  infectious diseases and host defense systems. Bridging molecular life sciences with translational public health, I aim to advance human health through innovative, transformative, and cutting-edge bioscience research.                               
+**Interests**: Microbiology and Immunology, Cell Biology, Molecular Bioscience, Bioinformatics, and Public Health. 
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
-## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+## Education						       		
+- M.Sc in Microbiology (Ongoing, Thesis Track) | Jagannath University (Expected: September 2025)			      
+- B.Sc. in Microbiology (cGPA 3.98/4.00, Faculty First) | Jagannath University (June 2024)
 
-## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+## Research Experience  
+**Thesis Student at Advanced Molecular Biology Laboratory, Jagannath University (_June 2024 - Present_)**
+- Thesis title — Antimicrobial Resistance Trajectory Genomics using the One Health Approach. 
+- My role includes — literature reviews, sample collection, wet lab experiments, bioinformatics analysis for resistance 
+gene transmission mapping, and manuscript preparation.
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Research Assistant at One Health Laboratory, Jahangirnagar University (_April 2024 - Present_)**
+- Project Title — Investigating the Chromosomal Mechanisms Underlying Colistin Resistance: A Molecular Investigation. 
+- Funded by the Bangladesh Academy of Sciences and the United States Department of Agriculture (BAS-USDA).
+- This study utilizes colistin-resistant isolates, MIC-based resistance gene detection, Whole-Genome Sequencing, Genome Assembly and Annotation, Identification of Resistance Mechanisms, and  Mutational patterns.  
 
-## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+**Research Assistant at Center for Health Innovation, Research, Action, and Learning - Bangladesh (_June 2020 - Present_)**
+- Bioinformatic Division Lead, directing research initiatives, overseeing data analysis, and providing strategic counsel for informed decision-making.  
+- Collaborating across teams, mentoring junior researchers, and conducting sessions for various Biomedical training. 
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+## Publications & Manuscripts
+1.  Islam, M.W., Shahjahan, M., Azad, A.K., Hossain, M.J., (2024) - Factors contributing to antibiotic misuse among 
+parents of school going children in Dhaka City, Bangladesh, Scientific Reports, Nature portfolio. [Publication](https://doi.org/10.1038/s41598-024-52313-y)
+2. Hossain, M. J., Islam, M. W., Islam, M.A. et al. (2023). - Health-related quality of life among thalassemia patients 
+in Bangladesh using the SF-36 questionnaire. Scientific Reports. [Publication](https://doi.org/10.1038/s41598-023-34205-9 )
+3. Hossain, M.J., D., M., Islam, M. W., et al. (2024) - Community engagement and social participation in dengue 
+prevention: A cross-sectional study in Dhaka City, Wiley Health Science Reports. [Publication](https://doi.org/10.1002/hsr2.2022)
+4. Hossain, M.J., Das., M., Shahjahan, M., Islam, M. W., et al. (2025) - Clinical and Hematological Manifestation of 
+Dengue Patients in 2022 Outbreak: A Tertiary Care Hospital‐Based Cross‐Sectional Study, Wiley Health Science 
+Reports. [Publication](https://doi.org/10.1002/hsr2.70356)
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+## Under Review / In Preparation 
+5. Islam, M.W., Rahman, M.M,. Hossain, M.J., et al. - Investigating the Molecular Profile of Thyroid Cancer: COL13A1 and COL23A1 as Biomarkers for Diagnosis and Prognosis. Submitted to Scientific Reports.
+6. Islam, M.W., Fariha F.T.J., Ahmed, M.Z., Hossain, M.J., et al. - Multi-Omics Analysis of CDK1 and CDK6 Expression and Prognostic Significance in Breast Cancer. Submitted to Heliyon.  
+7. Islam, M.W., Shahjahan, M., Towhid, S.T. et al. -Deviation of Practice from Policy in Use of Therapeutic Antibiotics in Chattogram, Bangladesh. Submitted to Perspectives in Public Health. 
+8. Islam, M.W., Fariha F.T.J., Zaman, k., Islam, M.S, et al. -Antimicrobial Resistance Trajectory Genomics using the One Health Approach  (In Preparation).
+9. Islam, M.W., Fariha F.T.J., Ahmed, M.Z., Hossain, M.J.From Farm to Fork: Mapping the Antimicrobial Resistance Drivers Dynamics Across the Poultry Production Chain in Bangladesh (In Preparation).
 
-![Bike Study](/assets/img/bike_study.jpeg)
 
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
+##  Conference Presentations 
+1. Islam, M.W., Ferdous, J., et al - Unveiling Antibiotic-Resistant Bacterial Strains in Environmental Wastewater 
+using a Molecular Approach. “38th BSM Annual International Conference, 2024” 
+2. Islam, M.W., Rahman, M.M,. Naznin, H., Hossain, M.S,. Akter, T., Shatabde, Z.A, Hossain, M.J., - Investigating 
+the Molecular Profile of Thyroid Cancer: COL13A1 and COL23A1 as Biomarkers for Diagnosis and Prognosis. 
+“International Conference of Public Health, IEDCR, 2024.”  
+3. Islam, M.W., Fariha F.T.J., Ahmed , M.Z., Hossain, M.J., et al. - Multi-Omics Analysis of CDK1 and CDK6 
+Expression and Prognostic Significance in Breast Cancer. “International Conference of Public Health, IEDCR, 2024.”  
+4. Islam, M.W., Fariha, F.T.J., Ahmed, Z., Biswas, T., Bhuiyan, H., et al. - Identifying EN2 as a Promising Therapeutic 
+Target for Glioblastoma Multiforme: A multi Omics approach. “BCSIR Congress 2023” 
 
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
 
-## Publications
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
-2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
-3. Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; Fernando, B.; Sadler, J.; Lary, T.; Lary, M.D. Autonomous Learning of New Environments with a Robotic Team Employing Hyper-Spectral Remote Sensing, Comprehensive In-Situ Sensing and Machine Learning. Sensors 2021, 21, 2240. https://doi.org/10.3390/s21062240
-4. Zhang, Y.; Wijeratne, L.O.H.; Talebi, S.; Lary, D.J. Machine Learning for Light Sensor Calibration. Sensors 2021, 21, 6259. https://doi.org/10.3390/s21186259
-5. Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J. Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022, 2022030145 (doi: 10.20944/preprints202203.0145.v1).
-6. Fernando, B.A.; Sridhar, A.; Talebi, S.; Waczak, J.; Lary, D.J. Unsupervised Blink Detection Using Eye Aspect Ratio Values. Preprints 2022, 2022030200 (doi: 10.20944/preprints202203.0200.v1).
-7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
-8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
-9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
+## Teaching & Mentorship 
+1. AI for Bioinformatics: In this course, I provide lectures on integrating cell biology with bioinformatics, elucidating their interconnectivity and the influence of cellular mechanisms on bioinformatics data.  
+2. Cancer Bioinfomratics: In this course, I lead sessions on proteomics in carcinogenesis, gene regulatory networks, biomarker identification, and cancer hallmarks while instructing students in analyzing transcriptomic and proteomic cancer datasets. 
+3. R for Biomedical Research: I deliver lectures on R programming basics, data structure, integration, analysis, interpretation and projects design in this course. 
+4. Bioinformatics BootCamp: In this course, I deliver lectures on big data fundamentals in bioinformatics, sequence alignment, BLAST methodology, phylodynamics, selection analysis, proteomics, and its interactions. 
 
-- [Data Science Blog](https://medium.com/@shawhin)
+
+## Skills 
+1. SOFT SKILLS: 
+**Programming Languages**: Python and R, Linux bash scripting; **Analytics Software**: SPSS, Microsoft Excel; **Survey 
+Tools**: KoboToolBox, EpiCollect, Google Forms; **Academic Writing Tools**: Microsoft Office, EndNote, Zotero, 
+Mendeley.  
+
+2. WET LAB SKILLS: 
+Bacteria Isolation, Culture Media, Sub-culturing, Centrifugation, DNA/RNA Extraction, PCR, RT-PCR, Gel 
+Electrophoresis, ELISA, Identification of Resistant Strains using MIC and Disk diffusion, Agar dilution method, 
+Profiling Antibiotic Resistance Genes, Bacteriophage Isolation, Plaque Assay, Gene sequencing.  
+
+3. BIOINFORMATIC SKILLS 
+RNAseq, NGS analysis, Whole bacterial genome analysis, Biomarker identification, Genome assembly and annotation, 
+Mutational patterns identification, BioPython, Bioconductor, BioPandas, Galaxy, MEGA.  
+
+4. MISCELLANEOUS SKILLS 
+**Class Representative**: Organize department events like seminars, cultural events, tours, and international days. 
+**Team Leader**: I served as a bioinformatics team leader at CHIRAL Bangladesh. 
+**Seminar Host**: I organized multiple workshops and seminars at CHIRAL Bangladesh focusing on infectious disease 
+prevention strategies, Antimicrobial Stewardship Weeks observance, and higher education opportunities. 
+**Proficiency Score**: IELTS Band 7.0 
+
+
+
+## Awards & Scholarships
+1. Dean's Award, Life and Earth Science Faculty, Jagannath University. [Processing] 
+2. University Grants Commission (UGC) Merit Scholarship 2024. [Processing] 
+3. Jagannath University Merit Scholarship from 2020 to 2024. [Received] 
+4. Awarded for the Best Presentation of Undergraduate Research Projects. [Received] 
+
+
